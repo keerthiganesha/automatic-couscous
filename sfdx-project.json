@@ -1,0 +1,16 @@
+{
+  "schema": "https://raw.githubusercontent.com/forcedotcom/schemas/main/sfdx-project.schema.json",
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    },
+    {
+      "path": "lwc"
+    }
+  ],
+  "name": "property management",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "62.0"
+}
